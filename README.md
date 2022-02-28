@@ -1,4 +1,4 @@
-# Songhyun bae / @Otwooo
+# Songhyun bae
 
 **Daejeon Daeshin High School student**
 
