@@ -5,7 +5,7 @@ I am a student of Dajeon Dashin Highschool.
 ## Contact
 - E-Mail : `baesonghyun91@gmail.com`
 
-## RESEARCH INTERESTS
+## Research Interests
 - Algorithm
 - Web Hacking
 - Reversing Engineering
