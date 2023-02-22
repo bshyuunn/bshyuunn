@@ -1,18 +1,19 @@
-## I'm Studying
+## Who am i
+Hello, My name is Songhyun Bae.🖐️ <br>
+I am a student of Dajeon Dashin Highschool.
 
-### :pushpin:Algotirhm
-- [Study_Algorithm](https://github.com/Otwooo/Study_Algorithm)
-- [solved.ac 프로필](https://solved.ac/profile/otwooo)
+## Contact
+- E-Mail : `baesonghyun91@gmail.com`
 
-[![otwooo's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=otwooo)](https://solved.ac/profile/otwooo) 
+## RESEARCH INTERESTS
+- Algorithm
+- Web Hacking
+- Reversing Engineering
+- Natural Language Processing
 
-<!-- ### :pushpin:AI
-- 2022년 중앙과학관 인공지능 자율탐구 프로그램 참여
-  - 과제 : 순환 신경망을 이용한 자연어 처리
-
-### :pushpin:Cyber Security
-- 건양대학교 정보보호영재교육 2기 고등기초심화반 교육생  -->
-
-
-
-
+## Awards
+- 2022 CTF Jr. (1st Place)
+- 2022 E-ICON World Contest (3rd Place)
+- 2022 CCE (Student Sector Final)
+- 2022 National Science Museum AI Research (1st Place)
+- 2022 KCF Hackathon (Silver Award)
