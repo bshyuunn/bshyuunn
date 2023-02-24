@@ -8,12 +8,15 @@ I am a student of Dajeon Dashin Highschool.
 ## Research Interests
 - Algorithm
 - Web Hacking
-- Reversing Engineering
+- Pwnable
 - Natural Language Processing
 
 ## Awards
+- 2022 KOI 1st round (participation prize)
 - 2022 CTF Jr. (1st Place)
 - 2022 E-ICON World Contest (3rd Place)
+- 2022 KOSPO Web Security Contest (4th place)
 - 2022 CCE (Student Sector Final)
 - 2022 National Science Museum AI Research (1st Place)
 - 2022 KCF Hackathon (Silver Award)
+- 2022 K-ICT Data Creator Camp (3rd Place)
