@@ -36,3 +36,9 @@ I am a student of Dajeon Dashin Highschool.
 - 2023 Codegate 주니어부 | 본선 진출 (최종 16등)
 - 2023 Wacon 주니어부 | 본선 진출 (진행 중)
 - 2023 사이버 보안 챌린지 | 본선 진출 (진행 중)
+
+## Presentation
+- 2023 27회 하계 해킹캠프 발표 '인공지능으로 도전하는 해킹:강화학습으로 웹 해킹 시도해보기'
+
+## Bug Bounty
+- Wordpress wpView Plugins (CVE-2023-33213)
