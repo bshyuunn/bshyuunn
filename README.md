@@ -20,3 +20,6 @@ I am a student of Dajeon Dashin Highschool.
 - 2022 National Science Museum AI Research (1st Place)
 - 2022 KCF Hackathon (Silver Award)
 - 2022 K-ICT Data Creator Camp (3rd Place)
+- 2023 CCE (Student Sector Final)
+- 2023 Codegate (Student Sector Final)
+- 2023 Kookmin University Algorithm Competition (Encouragement Award)
