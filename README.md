@@ -43,3 +43,4 @@ I am a student of Dajeon Dashin Highschool.
 
 ## Bug Bounty
 - Wordpress wpView Plugins (CVE-2023-33213)
+- Wordpress Simple File List Plugin (CVE-2023-39924)
