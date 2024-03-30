@@ -1,6 +1,6 @@
 ## Who am i
 Hello, My name is Songhyun Bae.🖐️ <br>
-I am a student of Korea University.
+I am a student of Dajeon Dashin Highschool.
 
 ## Contact
 - E-Mail : `baesonghyun91@gmail.com`
@@ -10,6 +10,7 @@ I am a student of Korea University.
 - Web Hacking
 - Pwnable
 - Natural Language Processing
+- Reinforcement Learning
 
 ## Awards
 - 2022 인공지능 자율탐구 성과대회 | 대상 (과학기술정보통신부장관상)
