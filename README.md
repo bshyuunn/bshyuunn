@@ -5,4 +5,4 @@ I am currently a student at Korea University studying hacking, with interests in
 <br>
 
 👉 [My CV](https://bshyuunn.github.io/Songhyun-Bae.pdf) <br>
-👉 [Web3 Audit Experience](https://github.com/bshyuunn/bshyuunn-web3-portfolio)
+👉 [Web3 Experience](https://github.com/bshyuunn/bshyuunn-web3-portfolio)
